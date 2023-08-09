@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Animal Shelter Adoption Tracker">3496c1314764f11087dee37f746d4313</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>View Adoption Application</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1102908_animal_0_adoption_application</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>admin,x_1102908_animal_0.consumer,x_1102908_animal_0.shelter admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-09 20:57:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7a6d89b14764f11087dee37f746d437d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>View Adoption Application</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_1102908_animal_0">0f5167954720b11087dee37f746d4314</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">0f5167954720b11087dee37f746d4314</sys_scope>
+        <sys_update_name>sys_app_module_7a6d89b14764f11087dee37f746d437d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-09 20:57:47</sys_updated_on>
+        <timeline_page/>
+        <title>View Adoption Application</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
